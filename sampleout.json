@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "El Paso Times"
+      },
+      "author": "El Paso Times staff",
+      "title": "Police confirm 3 dead, 14 wounded in Las Cruces park 'mass shooting' - El Paso Times",
+      "description": "Local, state and federal authorities are investigating what the Las Cruces Police Department described as a \"mass shooting\" overnight at a park.",
+      "url": "https://www.elpasotimes.com/story/news/crime/2025/03/22/mass-shooting-at-new-mexico-las-cruces-young-park/82609685007/",
+      "urlToImage": "https://www.elpasotimes.com/gcdn/authoring/authoring-images/2025/03/22/PTX1/82609996007-485852016-950160863952912-8933708538830234827-n.jpg?crop=719,405,x0,y0&width=719&height=405&format=pjpg&auto=webp",
+      "publishedAt": "2025-03-22T15:49:10Z",
+      "content": "Las Cruces investigators today confirmed that three people were killed and 14 wounded in what they described as a \"mass shooting\" during a frantic attack at a public park.\r\nVideo posted on social med… [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Earth.com"
+      },
+      "author": null,
+      "title": "Largest-ever 3D map of the universe lets us travel back 11 billion years - Earth.com",
+      "description": "DESI's first dataset maps 18.7 million celestial objects, aiding dark energy, galaxy, and universe expansion studies.",
+      "url": "https://www.earth.com/news/largest-ever-3d-map-of-the-universe-lets-us-travel-back-11-billion-years/",
+      "urlToImage": "https://cff2.earth.com/uploads/2025/03/20090037/DESI-universe.jpg",
+      "publishedAt": "2025-03-22T15:36:40Z",
+      "content": "The Dark Energy Spectroscopic Instrument (DESI) is on a mission to explore dark energy. It maps millions of celestial objects to understand the universes accelerating expansion. \r\nThe DESI collaborat… [+5319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "J. Kim Murphy",
+      "title": "Box Office: ‘Snow White’ Awakens With $16 Million Opening Day as ‘Alto Knights’ Bombs - Variety",
+      "description": "Disney's 'Snow White' remake, starring Rachel Zegler and Gal Gadot, is opening on top of the box office. Robert De Niro's 'The Alto Knights' is bombing.",
+      "url": "https://variety.com/2025/film/news/snow-white-box-office-opening-day-1236345447/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/03/white-knight-split.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-03-22T15:30:54Z",
+      "content": "Disney‘s “Snow White” is the fairest of them all on box office charts. The musical earned $16 million across Friday and preview screenings from 4,200 venues. It’s enough of a start to put “Snow White… [+4306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Columbia University agrees to several Trump demands - BBC.com",
+      "description": "The Trump administration has warned 60 universities funding may be cut if they do not address allegations of antisemitism on campuses.",
+      "url": "https://www.bbc.com/news/articles/c9q499x3v4yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/95ce/live/238ae3c0-0723-11f0-8c87-edb635ee3d20.jpg",
+      "publishedAt": "2025-03-22T15:00:22Z",
+      "content": "Columbia University has agreed to several demands from the Trump administration after $400m (£310m) in federal funding was pulled over accusations the university failed to fight antisemitism on campu… [+3368 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Harmeet Kaur",
+      "title": "Teenage boys are in crisis. The creators of Netflix’s ‘Adolescence’ want adults to pay attention - CNN",
+      "description": "“Adolescence” co-creator Jack Thorne speaks about his journey into darker corners of the internet, young male rage and what he hopes parents take away from the Netflix series.",
+      "url": "https://www.cnn.com/2025/03/22/entertainment/adolescence-netflix-teen-boys-wellness-cec/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/adolescence-uk-n-s1-e1-00-31-35-22.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-03-22T15:00:00Z",
+      "content": "The world for kids today looks a lot different than it did for their parents.\r\nA scene from the hit Netflix series Adolescence captures just how vast that difference is.\r\nIn the shows second episode,… [+10470 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jackie Wattles",
+      "title": "How NASA’s waylaid astronauts finally got home - CNN",
+      "description": "Two space missions reached their conclusion: one with a splashdown, the other with a quiet lunar death. And thrilling new studies expand our cosmic understanding.",
+      "url": "https://www.cnn.com/2025/03/22/science/nasa-astronauts-return-science-newsletter-wt/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/04-24-ap25077804648563-jpg.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-03-22T15:00:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nOne of the most closely watched astronaut missions of … [+5255 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Zachary Cohen, Oren Liebermann",
+      "title": "Trump wants a ‘Golden Dome’ capable of defending the entire US: ‘Strategically, it doesn’t make any sense’ - CNN",
+      "description": "US military officials are scrambling to develop a “Golden Dome” defense system that can protect the country from long-range missile strikes and have been told by the White House that no expense will be spared in order to fulfill one of President Donald Trump’…",
+      "url": "https://www.cnn.com/2025/03/22/politics/pentagon-golden-dome-scramble/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2203124792-20250321171233888.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-03-22T14:22:00Z",
+      "content": "US military officials are scrambling to develop a Golden Dome defense system that can protect the country from long-range missile strikes and have been told by the White House that no expense will be… [+9496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Assassin’s Creed Shadows’ Playercount Numbers Are Rolling In - Forbes",
+      "description": "Well, time to start tracking how Assassin’s Creed Shadows is performing, at least based on the data we have available on the new Ubisoft release.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/03/22/assassins-creed-shadows-playercount-numbers-are-rolling-in/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67dabfc2f54e4b11fd48728e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-22T13:47:45Z",
+      "content": "Assassin's Creed Shadows\r\nUbisoft\r\nWell, time to start tracking how Assassins Creed Shadows is performing, at least based on the data we have available on the new Ubisoft release. So far, at least, t… [+2397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NCAA.com"
+      },
+      "author": "Mike Lopresti | NCAA.com",
+      "title": "Breaking down a mild first round start to March Madness as top-seeds avoid early exits - NCAA.com",
+      "description": "Mike Lopresti looks at how the top-seeds navigated a mild First Round of March Madness, avoiding early exits but showing some vulnerabilities. The tournament is still wide open going into the Second Round.",
+      "url": "https://www.ncaa.com/news/basketball-men/article/2025-03-22/breaking-down-mild-first-round-start-march-madness-top-seeds-avoid-early-exits",
+      "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/styles/large_16x9/public-s3/images/2025-03/Duke-33.jpg?h=4ae22984&itok=17OlRQ9L",
+      "publishedAt": "2025-03-22T13:26:24Z",
+      "content": "The first round this March was light on Madness. Notice the relative calm? There were reasons.\r\nNo buzzer-beaters. Of the 32 first-round games, 20 were won by double figures, 12 by at least 20. Only … [+8298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NESN"
+      },
+      "author": "Jason Ounpraseuth",
+      "title": "Why Giants’ Reported QB Agreement Should Shift Patriots’ Draft Hopes - NESN",
+      "description": "The Giants reportedly agreed to terms with a veteran QB, but this shouldn't shift the Patriots' NFL draft hopes too much.",
+      "url": "https://nesn.com/2025/03/why-giants-reported-qb-agreement-should-shift-patriots-draft-hopes/",
+      "urlToImage": "https://nesn.com/wp-content/uploads/sites/5/2025/03/jameis-winston.jpg",
+      "publishedAt": "2025-03-22T13:22:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Enda Curran, Augusta Saraiva",
+      "title": "Diverging US Economic Data Begs the Question: Is a Slowdown Coming? - Bloomberg",
+      "description": "US economic data are diverging wildly, fueling a debate over whether rising anxiety from President Donald Trump’s trade policies will push a moderating economy into a serious downturn.",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-22/is-us-recession-concern-rising-under-trump-s-trade-tariff-policies",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJvn4a6A5L9c/v1/1200x800.jpg",
+      "publishedAt": "2025-03-22T13:00:00Z",
+      "content": "US economic data are diverging wildly, fueling a debate over whether rising anxiety from President Donald Trumps trade policies will push a moderating economy into a serious downturn.\r\nSurveys of sen… [+334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Israel strikes Lebanon after first rocket attack since ceasefire - BBC.com",
+      "description": "Benjamin Netanyahu has promised \"to act forcefully\" after the rocket attack into northern Israel.",
+      "url": "https://www.bbc.com/news/articles/cn4ynpzk8d8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/93e1/live/ea3716d0-0712-11f0-94d4-6f954f5dcfa3.jpg",
+      "publishedAt": "2025-03-22T12:56:59Z",
+      "content": "Hugo BachegaBBC Middle East correspondent\r\nJaroslav Lukiv\r\nIsrael has carried out the most intense air strikes on Lebanon in nearly four months, after several rockets were fired from Lebanon into Isr… [+4022 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Steve Holland",
+      "title": "Trump pulls security clearances for Kamala Harris, Hillary Clinton - USA TODAY",
+      "description": "While the revocations may not have immediate impacts, it is another sign of the growing political rift in Washington.",
+      "url": "https://www.usatoday.com/story/news/politics/2025/03/22/trump-kamala-harris-hillary-clinton-joe-biden-security-clearances/82609424007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/03/22/USAT/82609437007-usatsi-25231145.jpg?crop=2285,1285,x0,y750&width=2285&height=1285&format=pjpg&auto=webp",
+      "publishedAt": "2025-03-22T12:11:07Z",
+      "content": "BRIDGEWATER, New Jersey, March 21 (Reuters) - U.S. President Donald Trump on Friday took away security clearances for former Vice President Kamala Harris, former Secretary of State Hillary Clinton an… [+1722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Melissa Repko",
+      "title": "Take a look inside French luxury retailer Printemps' first U.S. store - CNBC",
+      "description": "Printemps opened a 55,000-square-foot store in New York City with luxury brands and food concepts, including a restaurant and a café with French pastries.",
+      "url": "https://www.cnbc.com/2025/03/22/look-inside-french-luxury-retailer-printemps-first-store-new-york.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108119268-1742498640987-Sneaker_Room.jpg?v=1742572038&w=1920&h=1080",
+      "publishedAt": "2025-03-22T12:00:01Z",
+      "content": "A piece of Paris has landed in New York City.\r\nFrench luxury retailer Printemps officially opened its first U.S. store this week in the city's Financial District. The retailer celebrated its opening … [+4528 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Nate Anderson",
+      "title": "Sometimes, it’s the little tech annoyances that sting the most - Ars Technica",
+      "description": "macOS wouldn’t remember mouse settings? This means war!",
+      "url": "https://arstechnica.com/culture/2025/03/sometimes-its-the-little-tech-annoyances-that-sting-the-most/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-618210412-scaled-1152x648-1742589637.jpg",
+      "publishedAt": "2025-03-22T11:07:46Z",
+      "content": null
+    }
+  ]
+}
